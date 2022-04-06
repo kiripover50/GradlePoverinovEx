@@ -1,0 +1,2 @@
+ru/ac/uniyar/moneytest/Counter.java
+ ru.ac.uniyar.testingcourse.Counter
